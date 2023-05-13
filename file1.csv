@@ -1,0 +1,9 @@
+Token,Value
+IDENTIFIER,set
+IDENTIFIER,name
+STRING,"""abc"""
+IDENTIFIER,puts
+STRING,"""Hello, $name!"""
+IDENTIFIER,set
+IDENTIFIER,age
+NUMBER,56
